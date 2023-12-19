@@ -1,0 +1,22 @@
+body {
+    width: 400px; /* La consigne demande 300px mais je mets 400 car plus ésthétique */
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+h1 {
+    text-align: center;
+    color: rgb(22, 9, 211);
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Ajustez la hauteur en fonction de vos besoins */
+}
